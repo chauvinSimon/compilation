@@ -42,7 +42,7 @@ The **compilation** consists of many short video clips showcasing **elite** male
 
 | [![collage](media/collage.jpg)](https://youtu.be/gCwEpkmkF-o) |
 |:-------------------------------------------------------------:|
-|                             * . *                             |
+|                  *Almost 40 clips included*                   |
 
 ---
 ---

@@ -25,7 +25,7 @@ The *compilation* consists of many short video clips showcasing *elite* male and
 
 ---
 
-Video URLs: https://github.com/chauvinSimon/compilation/blob/main/videos_urls.txt
+Video URLs: https://github.com/chauvinSimon/compilation/blob/main/media/video_urls.txt
 
 This video is for educational and analytical purposes only. The footage shown belongs to the original creators, and no copyright infringement is intended.
 
