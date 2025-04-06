@@ -1,0 +1,23 @@
+🌊 How much FASTER do Elite Triathletes Swim with Neoprene WETSUIT? 🏊 (𝘭𝘪𝘯𝘬 𝘪𝘯 𝘥𝘦𝘴𝘤𝘳𝘪𝘱𝘵𝘪𝘰𝘯)
+https://www.youtube.com/shorts/SA7jvSpfUQ4
+
+---
+
+This is one of the questions I have explored by analysing *over 15 years* of race data from nearly *500 elite races* , leveraging the World Triathlon API.
+
+The research delves into a *variety of topics* , including:
+• 👟 Are runs faster since the introduction of carbon-plate shoes?
+• 🐧 Should weaker swimmers rejoice when wetsuits are allowed?
+• 🚿 How much time does a wetsuit add to T1?
+• 👫 How much faster are men compared to women, and in which sport is the gap larger or smaller?
+• 🌡️ Do air and water temperatures influence performance?
+
+👉 One of the goals: To encourage a shift towards *data-driven research* that reflects *real race conditions* - offering more relevant insights than small lab-based studies.
+
+💻 The *full report* is available at ⏩ https://github.com/chauvinSimon/tri_stats ⏪. While dense, the findings are split into sections for easier reading. There is also a *takeaway section* at the end for a concise summary.
+
+❗ Acknowledgement: This work done in my free time is *far from perfect* - I welcome constructive feedback! Statistical significance tests, for example, are in most cases not included.
+
+💬 Have *question, insights, or ideas* ? I would love to hear your thoughts.
+
+#triathlon #swimbikerun #swimming #data

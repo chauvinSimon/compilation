@@ -27,7 +27,7 @@ yt-dlp -f best --download-sections "*00:01:23-00:02:00" "https://www.youtube.com
 ```
 
 ```bash
-(.venv) (draft) simon-chauvin@PF4R1NB6:~/drafts/compilation$ ffmpeg -version
+(.venv) (draft) simon-chauvin@me:~/drafts/compilation$ ffmpeg -version
 ffmpeg version 4.3 Copyright (c) 2000-2020 the FFmpeg developers
 built with gcc 7.3.0 (crosstool-NG 1.23.0.449-a04d0)
 configuration: --prefix=/opt/conda/conda-bld/ffmpeg_1597178665428/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh --cc=/opt/conda/conda-bld/ffmpeg_1597178665428/_build_env/bin/x86_64-conda_cos6-linux-gnu-cc --disable-doc --disable-openssl --enable-avresample --enable-gnutls --enable-hardcoded-tables --enable-libfreetype --enable-libopenh264 --enable-pic --enable-pthreads --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libmp3lame
