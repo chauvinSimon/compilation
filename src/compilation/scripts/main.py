@@ -94,7 +94,7 @@ def main():
     merge_videos(
         processed_video_paths=processed_video_paths,
         saving_path=merged_video_dir
-        / f"{get_timestamp()}_{config['compilation_file_name']}.mp4",
+        / f"{get_timestamp()}_{config['compilation_file_name'].replace('.yaml', '')}.mp4",
     )
 
 

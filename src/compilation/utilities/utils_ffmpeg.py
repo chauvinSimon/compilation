@@ -123,11 +123,12 @@ def process_video(
         f'"{scale_filter},'
         f"drawtext=text={overlay_text}:fontcolor={fontcolor}:fontsize={fontsize}:x={x}:y={y}:shadowx={shadowx}:shadowy={shadowy}:shadowcolor={shadowcolor}:box={box}:boxcolor={boxcolor}:boxborderw={boxborderw},",
         f'drawtext=text={credit_text}:fontcolor={fontcolor}:fontsize={fontsize / 2}:x={credit_x}:y={credit_y}:shadowx={shadowx}:shadowy={shadowy}:shadowcolor={shadowcolor}:box={box}:boxcolor={boxcolor}:boxborderw={boxborderw}"',
-        # Disable audio (removes sound)
-        "-an",
         # Output file path, where the processed video will be saved
         f'"{processed_video_path}"',  # Enclose processed_video_path in quotes to handle spaces in the file name
     ]
+
+    if config["remove_audio"]:
+        command.append("-an")
 
     command = " ".join(command)
     print(command)

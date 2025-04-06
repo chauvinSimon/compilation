@@ -36,7 +36,7 @@ def download_video_segment(
         config["web_browser"],
         "--format",
         # "best",
-        "bv*",  # best video-only (bv)
+        "bv*" if config["remove_audio"] else "best",  # best video-only (bv)
         # todo: understand other formats
         # "bv*[ext=mp4]",
         # "bestvideo[ext=mp4]",

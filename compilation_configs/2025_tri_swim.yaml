@@ -1,0 +1,16 @@
+# e-supertri
+
+2025_london_w:
+  url: https://youtu.be/lKrXqMryz5s
+  start: 01:19:50
+  end: 01:19:59
+  placement: top_middle
+  credit: supertri
+  info:
+    location: London
+    year: 2025
+    gender: w
+    distance: 200
+    wetsuit: false
+    progress: After ~30sec (of ~2min)
+    descriptions:

@@ -1,5 +1,7 @@
 compilation_file_name: "2024_tri_swim.yaml"
+#compilation_file_name: "2025_tri_swim.yaml"
 
+remove_audio: true  # todo: the image quality is better without audio
 override_existing_processed_videos: true
 override_existing_normalized_videos: true
 transition_duration_s: 0.0  # 0 means no transition
