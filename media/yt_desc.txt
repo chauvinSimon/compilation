@@ -1,0 +1,129 @@
+This compilation is intended for coaches to *create educational video analyses* of *swimming techniques* specific to *open-water swimming* and *triathlon* racing. ⬇️⬇️⬇️
+
+# 🎬 What is Included?
+
+The *compilation* consists of many short video clips showcasing *elite* male and female *triathletes* swimming in *real race* conditions.
+
+- 🎥 Various *camera angles* for detailed technique breakdown.
+- 🌊 Diverse *water conditions* : from calm lakes to rough, choppy seas.
+- 📏 Multiple *race distances* : 300m, 750m, 1500m, 2000m and 3800m.
+- 🩱 Different *swim gears* : swimskins, tri-suits, and wetsuits.
+- 🏁 Different *swim phases* covered: start, middle, and end of the race (excluding sprint starts).
+
+# ⚠️ Limitations
+
+- No *underwater footage* : the catch and pull phases are not clearly visible.
+- Footage primarily focuses on *race leaders* , who often swim in *relatively calm water* .
+  - This may not reflect the experience of amateur triathletes, who typically race in *crowded packs* with more drafting and physical contact.
+- *Elite* athletes may use different techniques than *amateur triathletes* (e.g., higher stroke rates).
+  - However, many aspects - such as sighting, breathing and body position - remain *valuable for all swimmers* .
+
+---
+
+Video URLs: https://github.com/chauvinSimon/compilation/blob/main/videos_urls.txt
+
+This video is for educational and analytical purposes only. The footage shown belongs to the original creators, and no copyright infringement is intended.
+
+---
+---
+
+# 🤷 Motivation
+
+I have learned a lot from existing resources explaining *swimming techniques* , such as  @PierreCoachingNatation  👏.
+
+However, most of them focus on *pool swimming* rather than *open-water* racing.
+
+My *goal* is to understand two things:
+- 1️⃣ What makes *open-water swimming* (OWS) in triathlon different from *pool swimming* ?
+- 2️⃣ How to *transfer skills from the pool* to real OWS race conditions?
+
+---
+
+# 🔍 Key Open-Water Swimming Insights
+
+I list below what I *have read and understood* from swim coaches.
+
+# Main specificities of OWS
+- *Sighting:* Sight first and then breathe
+- *Drafting:* Either on the toes or on the hip
+
+# Main OWS differences - compared to pool
+- *Stroke rate:* Increased - but without sacrificing technique
+- *Hand recovery:* Higher and wider
+- *Hand entry:* More assertive
+- *Breathing:* Slightly higher head position to account for waves
+- *Stroke exit:* Slightly earlier to maintain a higher cadence
+
+# Other OWS tips
+- *Sight:* Every 6 to 12 strokes in straight line for navigation
+- *Sight:* Quick: take a snapshot
+- *Sight:* Not too high: crocodile eyes if possible, depending on the waves
+- *Sight:* Time it with wave patterns (ideally at wave peaks)
+- *Sight:* Look for tall landmarks
+- *Sight:* Done via two movements:
+  - Press on the water with the extended arm
+  - Lift the head (and arch the back slightly)
+- *Neck:* Return the head to a neutral, relaxed position after sighting
+- *Head:* Keep the neck straight and the head looking down, to keep a straight line
+- *Breath:* Example: 2-2-2-3 pattern to alternate breathing side
+- *Breath:* Always keep a little extra air left
+- *Style:* Asymmetrical: longer glide on one side, shorter on the other ("galloping stroke"?)
+- *Kick:* Use a stronger kick just after sighting to maintain speed
+- *Effort:* Accelerate after being slowed down by a wave
+- *Effort:* Even or negative split
+- Keep calm :innocent:
+
+---
+
+# 📚 Resources
+
+Some of my favourite videos:
+- By Brenton Ford of  ⁨@EffortlessSwimming⁩
+  - https://youtu.be/-6r3M4GGgIY
+  - https://youtu.be/y1v0HacO1q4
+  - https://youtu.be/Fk4lijTXl6A
+  - https://youtu.be/Mr3W6itZwlc
+- By Leslie Thomas
+  - https://youtu.be/v0-lP3exIfc
+  - https://youtu.be/dRgdEnUYgKI ⭐
+  - https://youtu.be/omNLIGgtGHc
+- By  ⁨@adamwalker32⁩
+  - https://youtu.be/AWuCdvx7UBg
+  - https://youtu.be/cI-7GKB6W1A
+  - https://youtu.be/7xCRrMqHh90
+- https://youtu.be/LNxtdnQu1cU& by Keri-anne Payne
+- https://youtu.be/GGG_QGGQtU4 by  ⁨@LucyCharlesBarclay⁩
+
+Other channels:
+-  ⁨@gtn⁩
+-  ⁨@myswimpro⁩  by  ⁨@FaresKsebati⁩
+-  ⁨@USMastersSwimming⁩
+
+---
+
+## 🔭 Some of My Observations of Elite Triathletes
+
+- Breathing: Mostly *every 2 strokes*.
+- Sighting: Very frequent!
+  - Every *4, 6 or 8 strokes* on *straight sections*.
+    - Surprising to me: Even athletes drafting on toes *sight as often as leaders* .
+  - Every 2 strokes around buoys.
+- Stroke Rate:
+  - Ranges *70-95 SPM*, averaging around 80-90 SPM.
+  - Varies by race distance and swim style.
+- Body Position: Head not fully submerged between strokes.
+- Kick Pattern: Diverse.
+
+---
+
+# 👋 Next steps
+
+I hope this video helps swimmers and coaches better understand open-water swimming (OWS) techniques.
+
+In particular, *experts and coaches* can *use this compilation* to explain and illustrate key *concepts of OWS* , hopefully also sharing their analysis online.
+
+Thanks for reading/watching, and happy swimming! 🏊
+Cheers,
+Simon 😃
+
+#triathlon #openwaterswimming #swimmingtechniques #triathlontraining

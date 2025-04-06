@@ -1,0 +1,730 @@
+# olympics
+
+2024_paris_m:
+  url: https://youtu.be/pTCrrTUpOpU
+  start: 00:27:52
+  end: 00:28:45
+  placement: top_middle
+  credit: Olympics
+  info:
+    location: Paris
+    year: 2024
+    gender: m
+    distance: 1500
+    wetsuit: false
+    progress: With ~2min left (of ~20min)
+    descriptions:
+      - Alessio Crociani (ITA) (yellow cap) checks behind him and overtakes Henri Schoeman (RSA).
+      - "~90 SPM - Crociani: Sights every 2 stk before overtaking, none during, every ~4 after."
+      - "~90 SPM - Schoeman: Sights every 2 stk around the buoy, every 4 on straight line."
+      - "~84 SPM - Matthew Hauser (AUS) (green cap): Sights every 4 stk."
+  notes: two glances backwards and go. Cadence increases during takeover.
+
+2024_paris_m_2:
+  url: https://youtu.be/pTCrrTUpOpU
+  start: 00:24:31
+  end: 00:24:56
+  placement: top_right
+  credit: Olympics
+  info:
+    location: Paris
+    year: 2024
+    gender: m
+    distance: 1500
+    wetsuit: false
+    progress: With ~5min left (of ~20min)
+    descriptions:
+      - Battling strong currents.
+      - "~90 SPM - Henri Schoeman (RSA) (blue cap): Sights every 4 stk. One quick glance to his left."
+      - "~88 SPM - Pierre Le Corre (FRA) (red cap). Sights every 2 stk. Switches breathing side once."
+      - "~85 SPM - Matthew Hauser (AUS) (green cap): Sights every 2 stk, then every 4."
+      - Alessio Crociani (ITA) (yellow cap) changes line at the end - trying to catch Hauser’s feet?
+  notes: seems to stand still despite huge effort.
+
+2024_paris_w_2:
+  url: https://youtu.be/bXIAfVppavI
+  start: 00:17:18
+  end: 00:17:55
+  placement: top_middle
+  credit: Olympics
+  info:
+    location: Paris
+    year: 2024
+    gender: w
+    distance: 1500
+    wetsuit: false
+    progress: After ~8min (of ~22min)
+    descriptions:
+      - Diverse kick patterns and stroke rates.
+  notes: good top view to check kicks
+
+2024_paris_w:
+  url: https://youtu.be/bXIAfVppavI
+  start: 00:22:22
+  end: 00:22:36
+  placement: top_middle
+  credit: Olympics
+  info:
+    location: Paris
+    year: 2024
+    gender: w
+    distance: 1500
+    wetsuit: false
+    progress: After ~13min (of ~22min)
+    descriptions:
+      - "~83 SPM - Flora Duffy (BER) leads: 6-beat kick. Sights every 4-6 stk."
+      - "~83 SPM - Bianca Seregni (ITA) follows."
+      - "~95 SPM - Vittoria Lopes (BRA) in third: 2-beat kick."
+      - " Breaths every 2 stk (with sight) or every 3."
+  notes: good top view to check kicks.
+
+# world series
+
+2024_torremolinos_w:
+  url: https://youtu.be/y-8HM10G_Og
+  start: 00:01:50
+  end: 00:02:05
+  placement: top_right
+  credit: World Triathlon
+  info:
+    location: Torremolinos
+    year: 2024
+    gender: w
+    distance: 1500
+    wetsuit: true
+    progress: After ~3min (of ~22min)
+    descriptions:
+      - "~92 SPM - Cassandre Beaugrand (FRA) took a wrong line and must adjust."
+      - She lifts her head high to see over the big waves ahead.
+  notes: big waves.
+
+2024_torremolinos_m:
+  url: https://youtu.be/qhqdIBA7Auk
+  start: 00:01:42
+  end: 00:01:49
+  placement: top_right
+  credit: World Triathlon
+  info:
+    location: Torremolinos
+    year: 2024
+    gender: m
+    distance: 1500
+    wetsuit: true
+    progress: With ~2min left (of ~19min)
+    descriptions:
+      - "~85 SPM - Matthew Hauser (AUS) (yellow cap) behind Miguel Tiago Silva (POR)."
+
+2024_hamburg_m:
+  url: https://youtu.be/MyBo_j1PrAw
+  start: 00:01:18
+  end: 00:01:27
+  placement: bottom_middle
+  credit: World Triathlon
+  info:
+    location: Hamburg
+    year: 2024
+    gender: m
+    distance: 750
+    wetsuit: false
+    progress: After ~4min (of ~9min)
+    descriptions:
+      - "~87 SPM - Márk Dévay (HUN)."
+  notes: breath a lot
+
+2024_hamburg_w:
+  url: https://youtu.be/l6FQxu7sIWU
+  start: 00:01:29
+  end: 00:01:38
+  placement: bottom_left
+  credit: World Triathlon
+  info:
+    location: Hamburg
+    year: 2024
+    gender: w
+    distance: 750
+    wetsuit: false
+    progress: After ~4min (of ~10min)
+    descriptions:
+      - Jolien Vermeylen (BEL) (gray cap) is a bit blocked
+      - " between Seregni and Beaugrand."
+      - And must breath every 1-2 stk.
+
+2024_cagliari_m:
+  url: https://youtu.be/-Su5kpPz0hY
+  start: 00:01:33
+  end: 00:01:41
+  placement: top_right
+  credit: World Triathlon
+  info:
+    location: Cagliari
+    year: 2024
+    gender: m
+    distance: 1500
+    wetsuit: false
+    progress: After ~2min (of ~18min)
+    descriptions:
+     - Max Stapley (GBR) flying over big waves.
+     - Right arm recovered high and fully straight.
+
+2024_chengdu_w:
+  url: https://youtu.be/WVCUotrmyqY
+  start: 00:03:24
+  end: 00:03:41
+  placement: bottom_middle
+  credit: World Triathlon
+  info:
+    location: Chengdu
+    year: 2024
+    gender: w
+    distance: 1500
+    wetsuit: false
+    progress: With ~1min left (of ~19min)
+    descriptions:
+      - ~71 SPM - Therese Feuersinger (AUT) leads with a large margin.
+      - 8 stk between two sights.
+      - Head fully submerged during propulsion after breathing.
+  notes: style close to pool conditions
+
+2024_yokohama_w:
+  url: https://youtu.be/XMa5Soyx498
+  start: 00:01:23
+  end: 00:01:29
+  placement: top_middle
+  credit: World Triathlon
+  info:
+    location: Yokohama
+    year: 2024
+    gender: w
+    distance: 1500
+    wetsuit: true
+    progress: After ~4min (of ~18min)
+    descriptions:
+      - ~94 SPM - Maya Kingma (NED) (blue cap \#32).
+      - ~80 SPM - Olivia Mathias (GBR) (green cap \#42).
+  notes:
+
+# supertri
+
+2024_toulouse_w:
+  url: https://youtu.be/asUQlc3Ic98
+  start: 00:13:18
+  end: 00:13:53
+  placement: top_right
+  credit: supertri
+  info:
+    location: Toulouse
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: true
+    progress: After ~2min (of ~3min)
+    descriptions:
+      - "~86 SPM – Cassandre Beaugrand (FRA) leads."
+      - " Sights every 2 stk near buoys, every 6 between."
+      - "~95 SPM – Vittoria Lopes (BRA) follows."
+      - "~82 SPM – Beth Potter (GBR) in third."
+      - " Notable last buoy turn: keeps left arm in water for 3 stk."
+    notes: first leg is with wetsuit
+
+2024_toulouse_w_2:
+  url: https://youtu.be/asUQlc3Ic98
+  start: 00:14:43
+  end: 00:15:17
+  placement: top_right
+  credit: supertri
+  info:
+    location: Toulouse
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: true
+    progress: With ~30s left (of ~3min)
+    descriptions:
+      - "~88 SPM – Cassandre Beaugrand (FRA) (red cap)."
+      - " Sights 7 times, including two consecutive-sights to validate orientation."
+      - " Breathes right, with one left-side breath to locate competitors."
+      - "~95 SPM – Vittoria Lopes (BRA) (black cap): Sights only 4 times (every ~16 stk)."
+      - " Probably not the straightest line."
+      - "~79 SPM – Beth Potter (GBR) (blue cap): Sights ~17 times."
+  notes: Start legs kick
+
+2024_toulouse_m:
+  url: https://youtu.be/asUQlc3Ic98
+  start: 01:28:43
+  end: 01:28:59
+  placement: top_right
+  credit: supertri
+  info:
+    location: Toulouse
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: true
+    progress: With ~1min left (of ~3min)
+    descriptions:
+      - ~72 SPM - Chase McQueen (USA).
+      - Breathes once on his right to locate competitors.
+
+2024_toulouse_m_2:
+  url: https://youtu.be/asUQlc3Ic98
+  start: 02:00:18
+  end: 02:00:40
+  placement: top_right
+  credit: supertri
+  info:
+    location: Toulouse
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: With ~1min left (of ~3min)
+    descriptions:
+      - ~82 SPM - Vincent Luis (FRA).
+      - 1-beat kick, with the left foot to roll after the right-side breath?
+
+2024_london_w:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 00:15:05
+  end: 00:15:42
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: false
+    progress: With ~30s left (of ~3min)
+    descriptions:
+      - "~95 SPM – Jeanne Lehair (LUX). Breathes left but glances"
+      - " twice right and once behind to spot competitors."
+      - Left foot lifts out of water on each kick, more than the right,
+      - " likely aiding roll for left-side breathing?"
+  notes:
+
+2024_london_w_2:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 00:31:18
+  end: 00:31:35
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: false
+    progress: With ~1min left (of ~3min)
+    descriptions:
+    - ~82 SPM – Georgia Taylor-Brown (GBR) leads, switches breathing sides halfway.
+    - ~82 SPM – Olivia Mathias (GBR) follows in second.
+  notes:
+
+2024_london_w_3:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 00:49:05
+  end: 00:49:39
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: false
+    progress: With ~30s left (of ~3min)
+    descriptions:
+      - ~77 SPM - Olivia Mathias (GBR). 6-beat kick.
+      - " With a strong right kick after breathing on the right"
+      - " probably to aid the roll?"
+      - Taylor Spivey (USA) and Emma Lombardi (FRA)
+      - " (both with white caps) battle at the buoy."
+  notes: nice glide
+
+2024_london_m:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 01:28:01
+  end: 01:28:25
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: After ~1min (of ~3min)
+    descriptions:
+      - ~72 SPM - Chase McQueen (USA). Glancing once quickly behind.
+      - Seth Rider (USA) (also white cap) gets rid of his neighbours
+      - " after second buoy by taking a wide exit from the turn."
+  notes: congestion
+
+2024_london_m_2:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 01:42:38
+  end: 01:42:56
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: After ~1min (of ~3min)
+    descriptions:
+      - ~81 SPM - Hayden Wilde (NZL) leads.
+      - ~85 SPM - Vincent Luis (FRA) catches up. High right arm recovery.
+
+2024_london_m_3:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 01:44:19
+  end: 01:44:52
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: With ~30s left (of ~3min)
+    descriptions:
+      - "~82 SPM - Vincent Luis (FRA)."
+      - "1-beat kick: The right foot barely kicks"
+      - " but assists the left foot, like a scissor motion."
+
+2024_london_m_4:
+  url: https://youtu.be/pm_5g73h5oI
+  start: 01:58:25
+  end: 01:58:51
+  placement: top_right
+  credit: supertri
+  info:
+    location: London
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: After ~1min (of ~3min)
+    descriptions:
+      - ~90 SPM - Matthew Hauser (AUS) first.
+      - ~92 SMP - Léo Bergère (FRA) second.
+      - Hayden Wilde (NZL) (red) is forced wide at each buoy as others
+      - " take the inside path, costing him a position each time."
+
+2024_chicago_w:
+  url: https://youtu.be/ko07siy9Ayk
+  start: 00:13:56
+  end: 00:14:14
+  placement: top_middle
+  credit: supertri
+  info:
+    location: Chicago
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: false
+    progress: With ~30s left (of ~3min)
+    descriptions:
+     - ~98 SPM - Vittoria Lopes (BRA) leads. 2-beat kick with stronger left kick.
+     - " Sights every ~8 stk and glances once right and once left-behind."
+     - ~78 SPM - Kirsten Kasper (USA) follows.
+  notes: watch the leg kicks
+
+2024_chicago_m:
+  url: https://youtu.be/ko07siy9Ayk
+  start: 01:46:40
+  end: 01:46:50
+  placement: top_right
+  credit: supertri
+  info:
+    location: Chicago
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: With ~30s left (of ~3min)
+    descriptions:
+      - ~82 SPM - Vincent Luis (FRA) leads.
+      - ~73 SPM - Dorian Coninx (FRA) has lost his goggles?
+  notes: the second lost his goggles?
+
+2024_chicago_m_2:
+  url: https://youtu.be/ko07siy9Ayk
+  start: 02:01:40
+  end: 02:02:05
+  placement: top_middle
+  credit: supertri
+  info:
+    location: Chicago
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: After ~1min (of ~3min)
+    descriptions:
+      - ~87 SPM - Kenji Nener (JPN) and Matthew Hauser (AUS)
+      - " have identical suits, caps, and cadence."
+      - ~81 SPM - Hayden Wilde (NZL) (red) in second.
+      - ~77 SPM - Dorian Coninx (FRA) in fourth.
+
+2024_neon_w:
+  url: https://youtu.be/UpE9uMzUeOo
+  start: 00:27:13
+  end: 00:27:30
+  placement: top_right
+  credit: supertri
+  info:
+    location: Neon
+    year: 2024
+    gender: w
+    distance: 300
+    wetsuit: false
+    progress: After ~30s (of ~3min)
+    descriptions:
+      - ~87 SPM - Taylor Spivey (USA) leads.
+      - ~84 SPM - Cassandre Beaugrand (FRA) follows.
+      - ~89 SPM - Jeanne Lehair (LUX) joins the group.
+
+2024_neon_m:
+  url: https://youtu.be/UpE9uMzUeOo
+  start: 01:53:09
+  end: 01:53:21
+  placement: top_right
+  credit: supertri
+  info:
+    location: Neon
+    year: 2024
+    gender: m
+    distance: 300
+    wetsuit: false
+    progress: After ~30s (of ~3min)
+    descriptions:
+      - ~80 SPM - Hayden Wilde (NZL) leads.
+      - ~84 SPM - Alex Yee (GBR) follows.
+  notes:
+
+# fftri grands prix
+
+2024_st_jean_de_monts_m:
+  url: https://youtu.be/tIqYGhyiI1Y
+  start: 01:41:25
+  end: 01:41:44
+  placement: bottom_left
+  credit: FFTriathlon
+  info:
+    location: Saint-Jean-de-Monts
+    year: 2024
+    gender: m
+    distance: 750
+    wetsuit: true
+    progress: After ~7min (of ~12min)
+    descriptions:
+      - ~87 SPM - Matthew Hauser (AUS).
+  notes:
+
+# europe
+
+2024_vichy_m:
+  url: https://youtu.be/c3hoQQ0Fxzw
+  start: 03:49:55
+  end: 03:50:09
+  placement: top_middle
+  credit: Europe Triathlon
+  info:
+    location: Vichy
+    year: 2024
+    gender: m
+    distance: 1500
+    wetsuit: true
+    progress: After ~6min (of ~18min)
+    descriptions:
+      - ~80 SPM - João Nuno Batista (POR) leads.
+
+# t100
+
+2024_dubai_w:
+  url: https://youtu.be/BGZXPw2D9kE
+  start: 00:05:18
+  end: 00:05:36
+  placement: bottom_middle
+  credit: T100 Triathlon World Tour
+  info:
+    location: Dubai
+    year: 2024
+    gender: w
+    distance: 2000
+    wetsuit: false
+    progress: After ~5min (of ~26min)
+    descriptions:
+      - ~83 SPM - Taylor Knibb (USA). Sights every 6-8 stk.
+  notes:
+
+2024_london_t100_w:
+  url: https://youtu.be/RyaYlUiKmNE
+  start: 00:03:24
+  end: 00:03:48
+  placement: top_left
+  credit: T100 Triathlon World Tour
+  info:
+    location: London
+    year: 2024
+    gender: w
+    distance: 2000
+    wetsuit: true
+    progress: After ~2min (of ~26min)
+    descriptions:
+      - ~95 SPM - Lucy Charles-Barclay (GBR). Does she sight at all?
+      - " Her left foot appears to float on the water. Does it kick at all?"
+      - ~86 SPM - Sophie Coldwell (GBR) in second. Sights with each breath,
+      - " occasionally breathing every 4 strokes."
+  notes: Lucy's feet seem calm
+
+
+# ironman
+
+2024_hawaii_m_2:
+  url: https://youtu.be/7zPRo0XvC4E
+  start: 00:42:54
+  end: 00:43:16
+  placement: top_left
+  credit: IRONMAN Triathlon
+  info:
+    location: Kona
+    year: 2024
+    gender: m
+    distance: 3800
+    wetsuit: false
+    progress: After ~18min (of ~47min)
+    descriptions:
+      - ~69 SPM - Menno Koolhaas (NED) leads.
+      - ~76 SPM - Sam Laidlow (FRA) follows.
+  notes:
+
+2024_hawaii_m_3:
+  url: https://youtu.be/7zPRo0XvC4E
+  start: 00:48:00
+  end: 00:48:16
+  placement: bottom_left
+  credit: IRONMAN Triathlon
+  info:
+    location: Kona
+    year: 2024
+    gender: m
+    distance: 3800
+    wetsuit: false
+    progress: After ~23min (of ~47min)
+    descriptions:
+      - ~65 SPM - Denis Chevrot (FRA) (\#21 with red right sleeve)
+      - " at the back of the dense group."
+  notes: congestion at the back
+
+2024_hawaii_m_4:
+  url: https://youtu.be/7zPRo0XvC4E
+  start: 00:49:17
+  end: 00:49:40
+  placement: bottom_middle
+  credit: IRONMAN Triathlon
+  info:
+    location: Kona
+    year: 2024
+    gender: m
+    distance: 3800
+    wetsuit: false
+    progress: After ~24min (of ~47min)
+    descriptions:
+      - ~87 SPM - Sam Laidlow (FRA) leads.
+      - Sights every ~6 stk on straight line and every 2 stk near the buoy.
+  notes: leader from side
+
+2024_hawaii_m:
+  url: https://youtu.be/7zPRo0XvC4E
+  start: 00:50:31
+  end: 00:51:37
+  placement: top_right
+  credit: IRONMAN Triathlon
+  info:
+    location: Kona
+    year: 2024
+    gender: m
+    distance: 3800
+    wetsuit: false
+    progress: After ~26min (of ~47min)
+    descriptions:
+  notes: all from back
+
+2024_nice_w:
+  url: https://youtu.be/1HiN6GoCfGI
+  start: 00:38:48
+  end: 00:38:59
+  placement: top_left
+  credit: IRONMAN Triathlon
+  info:
+    location: Nice
+    year: 2024
+    gender: w
+    distance: 3800
+    wetsuit: true
+    progress: After ~23min (of ~49min)
+    descriptions:
+      - ~77 SPM - Rebecca Clarke (NZL) (purple cap \#30).
+      - ~71 SPM - Lauren Brandon (USA) (green cap \#25).
+  notes:
+
+2024_nice_w_2_1:
+  url: https://youtu.be/1HiN6GoCfGI
+  start: 00:53:36
+  end: 00:53:50
+  placement: bottom_left
+  credit: IRONMAN Triathlon
+  info:
+    location: Nice
+    year: 2024
+    gender: w
+    distance: 3800
+    wetsuit: true
+    progress: After ~37min (of ~49min)
+    descriptions:
+      - ~85 SPM - Marta Sanchez (white cap \#17).
+      - ~89 SPM - Fenella Langridge (blue cap \#10)
+      - " follows closely: her head nearly at the leader’s feet."
+  notes:
+
+2024_nice_w_2_0:
+  url: https://youtu.be/1HiN6GoCfGI
+  start: 00:53:57
+  end: 00:54:09
+  placement: top_right
+  credit: IRONMAN Triathlon
+  info:
+    location: Nice
+    year: 2024
+    gender: w
+    distance: 3800
+    wetsuit: true
+    progress: After ~38min (of ~49min)
+    descriptions:
+      - ~85 SPM - Marta Sanchez (white cap \#17).
+      - ~89 SPM - Fenella Langridge (blue cap \#10)
+      - " follows closely: her head nearly at the leader’s feet."
+  notes:
+
+2024_nice_w_3:
+  url: https://youtu.be/1HiN6GoCfGI
+  start: 01:02:31
+  end: 01:03:15
+  placement: top_left
+  credit: IRONMAN Triathlon
+  info:
+    location: Nice
+    year: 2024
+    gender: w
+    distance: 3800
+    wetsuit: true
+    progress: With ~3min left (of ~49min)
+    descriptions:
+      - ~87 SPM - Marta Sanchez (white cap \#17).
+      - ~89 SPM - Fenella Langridge (blue \#10).
+  notes: nice shoulder to shoulder

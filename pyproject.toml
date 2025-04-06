@@ -7,7 +7,12 @@ authors = [
     { name = "simon chauvin", email = "simon.chauvin@accenture.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "colorlog>=6.9.0",
+    "pyyaml>=6.0.2",
+    "secretstorage>=3.3.3",
+    "yt-dlp>=2025.3.31",
+]
 
 [project.scripts]
 compilation = "compilation:main"

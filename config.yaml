@@ -1,0 +1,61 @@
+compilation_file_name: "2024_tri_swim.yaml"
+
+override_existing_processed_videos: true
+override_existing_normalized_videos: true
+transition_duration_s: 0.0  # 0 means no transition
+
+video_format: mp4
+resolution:
+  width: 1920
+  height: 1080
+signature: "@chauvinSimon"
+
+web_browser: chrome
+
+overlay_text_params:
+  fontcolor: "white"      # Color of the text (e.g., white, red, blue)
+  fontsize: 30            # Size of the text in pixels
+  shadowx: 2              # Horizontal shadow offset (2px right)
+  shadowy: 2              # Vertical shadow offset (2px down)
+  shadowcolor: "black"    # Color of the shadow for better readability
+  box: 1                  # Enable a background box around text (1 = on, 0 = off)
+  boxcolor: "black@0.5"   # Background box color with transparency (@0.5 = 50% opacity)
+  boxborderw: 10          # Padding (in pixels) around the text inside the box
+
+logging:
+  log_name_template: "{timestamp}.log"
+  log_file_dir_name: "logs"
+
+  version: 1
+  disable_existing_loggers: False
+  formatters:
+    simple:
+      format: "%(asctime)s - %(levelname)-8s - %(name)s - %(message)s"
+    colored:
+      (): colorlog.ColoredFormatter
+      format: "%(log_color)s%(asctime)s - %(levelname)-8s - %(name)s - %(message)s"
+      log_colors:
+        DEBUG:    "cyan"
+        INFO:     "green"
+        WARNING:  "yellow"
+        ERROR:    "red"
+        CRITICAL: "bold_red"
+  handlers:
+    console:
+      class: logging.StreamHandler
+      level: INFO
+      formatter: colored  # Use the colored formatter for console output
+      stream: ext://sys.stdout
+    file:
+      class: logging.FileHandler
+      level: DEBUG
+      formatter: simple  # Use the simple formatter for file output
+      filename: "empty_name.log"  # will be overwritten
+  loggers:
+    GenTAI:
+      level: DEBUG
+      handlers: [ console, file ]
+      propagate: no  # If set to no, messages logged by this logger will not be passed to the root logger.
+  root:
+    level: DEBUG
+    handlers: [ console, file ]
